@@ -2,7 +2,7 @@
 layout: default
 title: Ryu Certification - ivs - config
 ---
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * ivs
 
 # OpenFlow related configuration

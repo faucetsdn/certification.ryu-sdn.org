@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - Hewlett-Packard HP2920
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * Hewlett-Packard HP2920
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/Hewlett-Packard_HP2920.html)
+* [Configuration](config/Hewlett-Packard_HP2920.html)
 
 | |OK|ERROR|
 |----------|---|---|

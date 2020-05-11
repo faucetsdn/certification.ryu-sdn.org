@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - Allied Telesis x930
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * Allied Telesis x930
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/Allied-Telesis_x930.html)
+* [Configuration](config/Allied-Telesis_x930.html)
 
 | |OK|ERROR|
 |----------|---|---|

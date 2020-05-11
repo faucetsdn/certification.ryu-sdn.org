@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - Trema Switch
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * Trema Switch
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/Trema_Switch.html)
+* [Configuration](config/Trema_Switch.html)
 
 | |OK|ERROR|
 |----------|---|---|

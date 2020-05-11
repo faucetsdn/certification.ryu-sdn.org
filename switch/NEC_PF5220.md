@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - NEC PF5220
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * NEC PF5220
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/NEC_PF5220.html)
+* [Configuration](config/NEC_PF5220.html)
 
 | |OK|ERROR|
 |----------|---|---|

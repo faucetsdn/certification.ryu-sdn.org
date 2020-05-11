@@ -2,7 +2,7 @@
 layout: default
 title: Ryu Certification - Trema Switch - config
 ---
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * Trema Switch
 
 # OpenFlow related configuration

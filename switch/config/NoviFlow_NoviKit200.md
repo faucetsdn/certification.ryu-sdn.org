@@ -2,7 +2,7 @@
 layout: default
 title: Ryu Certification - NoviFlow NoviKit200 - config
 ---
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * NoviFlow NoviKit200
 
 # OpenFlow related configuration

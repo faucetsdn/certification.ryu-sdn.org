@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - lagopus
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * lagopus
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/lagopus.html)
+* [Configuration](config/lagopus.html)
 
 | |OK|ERROR|
 |----------|---|---|

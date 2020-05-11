@@ -2,7 +2,7 @@
 layout: default
 title: Ryu Certification - Hewlett-Packard_HP2920 - config
 ---
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * Hewlett-Packard HP2920
 
 # OpenFlow related configuration

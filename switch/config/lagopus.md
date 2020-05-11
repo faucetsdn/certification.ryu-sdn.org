@@ -2,7 +2,7 @@
 layout: default
 title: Ryu Certification - lagopus - config
 ---
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * lagopus
 
 # Version information

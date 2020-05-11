@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - ivs
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * ivs
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/ivs.html)
+* [Configuration](config/ivs.html)
 
 | |OK|ERROR|
 |----------|---|---|

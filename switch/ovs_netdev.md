@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - ovs netdev
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * ovs netdev
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/ovs_netdev.html)
+* [Configuration](config/ovs_netdev.html)
 
 | |OK|ERROR|
 |----------|---|---|

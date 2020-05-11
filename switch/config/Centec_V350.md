@@ -2,7 +2,7 @@
 layout: default
 title: Ryu Certification - Centec V350 - config
 ---
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * Centec V350
 
 # OpenFlow related configuration

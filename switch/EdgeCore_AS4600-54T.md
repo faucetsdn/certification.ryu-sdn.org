@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - EdgeCore AS4600-54T
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * EdgeCore AS4600-54T
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/EdgeCore_AS4600-54T.html)
+* [Configuration](config/EdgeCore_AS4600-54T.html)
 
 | |OK|ERROR|
 |----------|---|---|

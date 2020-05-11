@@ -2,7 +2,7 @@
 layout: default
 title: Ryu Certification - EdgeCore_AS4600-54T - config
 ---
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * EdgeCore AS4600-54T
 
 # OpenFlow related configuration

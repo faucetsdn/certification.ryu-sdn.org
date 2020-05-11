@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - IBM RackSwitch-G8264
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * IBM RackSwitch-G8264
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/IBM_RackSwitch-G8264.html)
+* [Configuration](config/IBM_RackSwitch-G8264.html)
 
 | |OK|ERROR|
 |----------|---|---|

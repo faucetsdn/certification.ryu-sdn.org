@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - NoviFlow NoviKit200
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * NoviFlow NoviKit200
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/NoviFlow_NoviKit200.html)
+* [Configuration](config/NoviFlow_NoviKit200.html)
 
 | |OK|ERROR|
 |----------|---|---|

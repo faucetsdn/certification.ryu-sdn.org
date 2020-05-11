@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - Centec V350
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * Centec V350
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/Centec_V350.html)
+* [Configuration](config/Centec_V350.html)
 
 | |OK|ERROR|
 |----------|---|---|

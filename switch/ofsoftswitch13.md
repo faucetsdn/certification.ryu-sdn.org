@@ -3,9 +3,9 @@ layout: default
 title: Ryu Certification - ofsoftswitch13
 ---
 
-# [Ryu Certification](http://osrg.github.io/ryu/certification.html)
+# [Ryu Certification](https://ryu-sdn.org/certification.html)
 * ofsoftswitch13
-* [Configuration](http://osrg.github.io/ryu-certification/switch/config/ofsoftswitch13.html)
+* [Configuration](config/ofsoftswitch13.html)
 
 | |OK|ERROR|
 |----------|---|---|
